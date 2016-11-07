@@ -1,0 +1,2 @@
+INSERT INTO `sh_admin` VALUES('1','admin','0edbcdc2c4e723e4587f02ce0eae16e0','','0','','1','true','219.143.150.55','1452394100');
+INSERT INTO `sh_admin` VALUES('3','admin01','ccdfcf72f954072b1f4ae52df34b2cc6','管理','0','','2','true','127.0.0.1','1441678651');

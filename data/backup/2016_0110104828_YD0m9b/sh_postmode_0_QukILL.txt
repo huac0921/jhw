@@ -1,0 +1,2 @@
+INSERT INTO `sh_postmode` VALUES('1','叫货网配送','5','1','false');
+INSERT INTO `sh_postmode` VALUES('6','用户自提','','2','true');

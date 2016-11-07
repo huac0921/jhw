@@ -1,0 +1,6 @@
+.shoppingcart  .number .Left{float: left;}
+.shoppingcart .number{width:140px;margin-left:19px;margin-right:auto}
+.shoppingcart .number a{width:21px;height:20px;background:url(../images/shoppingcart.png) 0px 0px  no-repeat;}
+.shoppingcart .number a.add{background-position:-21px -0px}
+.shoppingcart .number .num{width:45px;height:18px;border:1px solid #8a8a8a;padding:0;margin:0;line-height:18px;text-align:center;font-size:14px;color:#555}
+.shoppingcart .number .unit{display:block;width:40px;height:20px;line-height:20px}.cart_extra{width:938px;border:1px solid #ddd;border-bottom-width:2px;padding:20px;border-top:0}

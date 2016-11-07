@@ -1,0 +1,1 @@
+INSERT INTO `sh_usercomment` VALUES('1','4','4','1','testuser','132132132','','http://localhost:8080/shop/goodsshow.php?cid=14&tid=14&id=4','1405562952','0.0.0.0','0');

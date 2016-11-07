@@ -1,0 +1,1 @@
+INSERT INTO `sh_getmode` VALUES('3','送货上门','1','true');

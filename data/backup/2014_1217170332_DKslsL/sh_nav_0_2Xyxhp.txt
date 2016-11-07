@@ -1,0 +1,8 @@
+INSERT INTO `sh_nav` VALUES('1','1','0','0,','主菜单','#','','','','1','true');
+INSERT INTO `sh_nav` VALUES('2','1','1','0,1,','首　页','index.php','index.html','','','2','true');
+INSERT INTO `sh_nav` VALUES('3','1','1','0,1,','本帮菜','#','about-2-1.html','','','3','true');
+INSERT INTO `sh_nav` VALUES('4','1','1','0,1,','粤菜','#','news-4-1.html','','','4','true');
+INSERT INTO `sh_nav` VALUES('6','1','1','0,1,','湘菜','#','case-8-1.html','','','6','true');
+INSERT INTO `sh_nav` VALUES('7','1','1','0,1,','人才招聘','#','join-1.html','','','7','true');
+INSERT INTO `sh_nav` VALUES('8','1','1','0,1,','客户留言','#','message-1.html','','','8','true');
+INSERT INTO `sh_nav` VALUES('9','1','1','0,1,','联系我们','#','contact-9-1.html','','','9','true');

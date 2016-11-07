@@ -1,0 +1,2 @@
+INSERT INTO `sh_admin` VALUES('1','admin','c3284d0f94606de1fd2af172aba15bf3','','0','','1','true','0.0.0.0','1418606030');
+INSERT INTO `sh_admin` VALUES('2','admin01','400172c9b1be38efc3431f3c53b97986','','0','','2','true','0.0.0.0','1412064689');

@@ -1,0 +1,5 @@
+INSERT INTO `sh_goodsflag` VALUES('1','c','推荐','0');
+INSERT INTO `sh_goodsflag` VALUES('2','n','新品','1');
+INSERT INTO `sh_goodsflag` VALUES('3','a','特推','2');
+INSERT INTO `sh_goodsflag` VALUES('4','t','特价','3');
+INSERT INTO `sh_goodsflag` VALUES('5','h','热卖','4');

@@ -1,0 +1,2 @@
+INSERT INTO `sh_usercomment` VALUES('1','4','4','1','testuser','132132132','','http://localhost:8080/shop/goodsshow.php?cid=14&tid=14&id=4','1405562952','0.0.0.0','0');
+INSERT INTO `sh_usercomment` VALUES('2','38','4','-1','游客','132135132654','','http://localhost:8080/wine/goodsshow.php?cid=1&tid=73&id=38','1411550792','0.0.0.0','1');

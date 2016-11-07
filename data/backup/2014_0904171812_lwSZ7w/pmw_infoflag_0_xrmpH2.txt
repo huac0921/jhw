@@ -1,0 +1,6 @@
+INSERT INTO `pmw_infoflag` VALUES('1','h','头条','0');
+INSERT INTO `pmw_infoflag` VALUES('2','c','推荐','1');
+INSERT INTO `pmw_infoflag` VALUES('3','f','幻灯','2');
+INSERT INTO `pmw_infoflag` VALUES('4','a','特荐','3');
+INSERT INTO `pmw_infoflag` VALUES('5','s','滚动','4');
+INSERT INTO `pmw_infoflag` VALUES('6','j','跳转','5');

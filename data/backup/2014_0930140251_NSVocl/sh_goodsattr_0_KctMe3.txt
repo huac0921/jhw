@@ -1,0 +1,3 @@
+INSERT INTO `sh_goodsattr` VALUES('1','10','颜色','1','true');
+INSERT INTO `sh_goodsattr` VALUES('2','10','型号','2','true');
+INSERT INTO `sh_goodsattr` VALUES('4','114','起售量','3','true');
